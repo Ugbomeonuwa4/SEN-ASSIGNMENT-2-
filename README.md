@@ -75,11 +75,13 @@ Testing is done manually via the terminal.
 ---
 
 ### 5. Deployment = GITHUB
-LINK = https://github.com/Chikill/chisom24-15454
+LINK 
+(https://github.com/Ugbomeonuwa4/SEN-ASSIGNMENT-2-.git)
 ---
 
 ### 6. Maintenance
 
 * New features can be added (file storage, GUI, database)
 * Bug fixes and performance improvements
+
 
